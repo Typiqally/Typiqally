@@ -1,4 +1,8 @@
-### Hi there 👋
+### Typiqally
+
+![](https://komarev.com/ghpvc/?username=Typiqally&style=flat-square)
+
+Hi there, my name is Jelle Maas, a passionate full-stack developer and innovator who is interested in anything that runs on 1's and 0's.
 
 <!--
 **Typiqally/Typiqally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
