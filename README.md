@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Typiqally&style=flat-square)
 
-Hi there, my name is Jelle Maas, a passionate full-stack developer and innovator who is interested in anything that runs on 1's and 0's.
+I'm a 20-year-old passionate full-stack software engineer who's interested in anything that runs on one's
+and zero's. I started from the age of nine, and since then developed a broad skill set within software and
+design. I'm cheerful, ambitious, love learning new things, and helping others to do the same.
 
 <!--
 **Typiqally/Typiqally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
