@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Typiqally&style=flat-square)
 
-I'm a 20-year-old passionate full-stack software engineer who's interested in anything that runs on one's
+I'm a 21-year-old passionate full-stack software engineer who's interested in anything that runs on one's
 and zero's. I started from the age of nine, and since then developed a broad skill set within software and
 design. I'm cheerful, ambitious, love learning new things, and helping others to do the same.
 
